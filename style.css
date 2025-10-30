@@ -3,6 +3,7 @@ body {
   font-family: Montserrat, sans-serif;
   color: #000000;
 }
+
 .kartu-profil {
   widht: 300px;
   margin: 50px auto;
@@ -12,6 +13,7 @@ body {
   box-shadow: 0 4px 8px rgba(0,0,0,0,1);
   text-align: center;
 }
+
 .kartu-profil img {
   widht: 150px;
   border-radius: 50%;
